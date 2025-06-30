@@ -1,0 +1,14 @@
+fvcore==0.1.5.post20221221
+matplotlib==3.5.2
+numpy==1.22.4
+opencv_python==4.6.0.66
+opencv_python_headless==4.6.0.66
+pandas==1.4.3
+Pillow==9.2.0
+pycocotools==2.0.7
+resampy==0.3.1
+scikit_learn==1.1.1
+scipy==1.8.1
+timm==0.6.5
+tqdm==4.66.1
+soundfile==0.13.1
