@@ -126,3 +126,6 @@ If you find this repo useful for your research, please cite
 
 # Contact
 For questions about our paper or code, please contact **Shaofei Huang**(nowherespyfly@gmail.com).
+
+# Acknowledgement
+This repo is mostly derived from [COMBO-AVS](https://github.com/yannqi/COMBO-AVS) codebase. Thanks for their efforts.
