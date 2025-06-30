@@ -119,7 +119,7 @@ If you find this repo useful for your research, please cite
 @inproceedings{huang2025revisiting,
   title={Revisiting Audio-Visual Segmentation with Vision-Centric Transformer},
   author={Huang, Shaofei and Ling, Rui and Hui, Tianrui and Li, Hongyu and Zhou, Xu and Zhang, Shifeng and Liu, Si and Hong, Richang and Wang, Meng},
-  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2025}
 }
 ```
