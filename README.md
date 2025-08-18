@@ -31,35 +31,6 @@ cd models/modeling/pixel_decoder/ops
 bash make.sh
 ```
 
----
-
-#### **Step 1.** Create a conda virtual environment and activate it
-```
-conda create -n lane3d python=3.7 -y
-conda activate lane3d
-conda install pytorch==1.9.1 torchvision==0.10.1 cudatoolkit=11.1 -c pytorch -y
-```
-
-#### **Step 2.** Install dependencies
-```
-pip install -U openmim
-mim install mmcv-full
-pip install -r requirements.txt
-```
-Refer to [ONCE-3dlane](https://github.com/once-3dlanes/once_3dlanes_benchmark/tree/master/wheels) to install `jarvis`.
-
-#### **Step 3.** Install Anchor3DLane
-```
-git clone https://github.com/tusen-ai/Anchor3DLane.git
-cd Anchor3DLane
-python setup.py develop
-```
-Compile multi-scale deformable attention:
-```
-cd mmseg/models/utils/ops
-sh make.sh
-```
-
 This repository is built upon [COMBO-AVS](https://github.com/yannqi/COMBO-AVS) codebase. Please refer to the [original combo-avs repository](https://github.com/yannqi/COMBO-AVS?tab=readme-ov-file#1-environments) for more detailed information of installation.
 
 ## Data Preparation
